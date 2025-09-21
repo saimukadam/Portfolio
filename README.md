@@ -29,7 +29,7 @@ Here are some of my Python mini projects:
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sai-mukadam/)  
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sai-mukadam-54a416267/)  
 - GitHub: [github.com/SaiMukadam](https://github.com/SaiMukadam)  
 
 ---
