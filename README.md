@@ -27,7 +27,7 @@ Here are some of my Python mini projects:
 2. [## SQL Mini Project: Employee & Project Analysis]
 
 You can view the full project on GitHub:  
-[SQL Mini Project Repository]()
+[SQL Mini Project Repository](https://github.com/saimukadam/SQL_Employee_Project)
 
 
 > 💡 You can add **all future projects** here to showcase your learning journey.
