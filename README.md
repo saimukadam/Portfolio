@@ -35,7 +35,7 @@ You can view the full project on GitHub:
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sai-mukadam-54a416267/)  
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sai-mukadam-54a416267/)  
 - GitHub: [github.com/SaiMukadam](https://github.com/SaiMukadam)  
 
 ---
