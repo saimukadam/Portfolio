@@ -22,7 +22,13 @@ Here are some of my Python mini projects:
 
 1. [**Student Grade Calculator**](https://github.com/SaiMukadam/Student_Grade_Calculator)  
    - Input student marks, calculate total & average, assign grade  
-   - Uses **functions, loops, conditional statements, input validation**  
+   - Uses **functions, loops, conditional statements, input validation**
+
+2. [## SQL Mini Project: Employee & Project Analysis]
+
+You can view the full project on GitHub:  
+[SQL Mini Project Repository]()
+
 
 > 💡 You can add **all future projects** here to showcase your learning journey.
 
