@@ -36,7 +36,7 @@ Here are some of my Python mini projects:
   - Correlation between Study Hours & Exam Scores  
 
 ## SQL Projects
-1. [## SQL Mini Project: Employee & Project Analysis]
+1. [SQL Mini Project: Employee & Project Analysis]
 
 You can view the full project on GitHub:  
 [SQL Mini Project Repository](https://github.com/saimukadam/SQL_Employee_Project)
