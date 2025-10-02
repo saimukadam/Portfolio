@@ -20,11 +20,23 @@ Currently improving my **Python, English, and Data Analytics skills** with pract
 ## 📂 Projects Portfolio
 Here are some of my Python mini projects:
 
+
+## Python Projects
 1. [**Student Grade Calculator**](https://github.com/SaiMukadam/Student_Grade_Calculator)  
    - Input student marks, calculate total & average, assign grade  
    - Uses **functions, loops, conditional statements, input validation**
 
-2. [## SQL Mini Project: Employee & Project Analysis]
+2. [NumPy Real-World Tasks](https://github.com/saimukadam/NumPy-Practice)  
+  This project demonstrates real-world use of **NumPy** for data analysis.  
+  It includes:
+  - Sales Data (Quarterly Analysis)  
+  - Employee Salary Increment Calculations  
+  - Exam Scores Statistical Analysis (Mean, Median, Std)  
+  - Random Transactions Analysis  
+  - Correlation between Study Hours & Exam Scores  
+
+## SQL Projects
+1. [## SQL Mini Project: Employee & Project Analysis]
 
 You can view the full project on GitHub:  
 [SQL Mini Project Repository](https://github.com/saimukadam/SQL_Employee_Project)
