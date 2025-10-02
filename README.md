@@ -26,7 +26,7 @@ Here are some of my Python mini projects:
    - Input student marks, calculate total & average, assign grade  
    - Uses **functions, loops, conditional statements, input validation**
 
-2. [NumPy Real-World Tasks](https://github.com/saimukadam/NumPy-Practice)  
+2. [NumPy Real-World Tasks](https://github.com/saimukadam/Numpy-Task)  
   This project demonstrates real-world use of **NumPy** for data analysis.  
   It includes:
   - Sales Data (Quarterly Analysis)  
