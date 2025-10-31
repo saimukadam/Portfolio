@@ -48,7 +48,14 @@ You can view the full project on GitHub:
 
 ## 📫 Connect with Me
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sai-mukadam-54a416267/)  
-- GitHub: [github.com/SaiMukadam](https://github.com/SaiMukadam)  
+- GitHub: [github.com/SaiMukadam](https://github.com/SaiMukadam)
+
+---
+
+## 🌟 Oasis Infobyte Data Analytics Internship
+
+### 📊 [Project 1: EDA on McDonald's Menu Data](./Oasis_Infobyte_Internship/Project_1_EDA_on_McDonalds_Menu_Data)
+### 🤖 [Project 2: Customer Segmentation using K-Means](./Oasis_Infobyte_Internship/Project_2_Customer_Segmentation_Analysis)
 
 ---
 
