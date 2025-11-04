@@ -57,7 +57,7 @@ You can view the full project on GitHub:
 ### 📊 [Project 1: EDA on McDonald's Menu Data](./Oasis_Infobyte_Internship/Project_1_EDA_on_McDonalds_Menu_Data)
 ### 🤖 [Project 2: Customer Segmentation using K-Means](./Oasis_Infobyte_Internship/Project_2_Customer_Segmentation_Analysis)
 ### 🤖 [Project 3: Data Cleaning](./Oasis_Infobyte_Internship/Project_3_Data_Cleaning_NYC_Airbnb)
-### 🤖 [Project 3: Data Cleaning](./Oasis_Infobyte_Internship/Project_4_Sentiment_Analysis)
+### 🤖 [Project 4: Sentiment Analysis](./Oasis_Infobyte_Internship/Project_4_Sentiment_Analysis)
 ---
 
 ## ⚡ Note
