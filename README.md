@@ -58,6 +58,7 @@ You can view the full project on GitHub:
 ### 🤖 [Project 2: Customer Segmentation using K-Means](./Oasis_Infobyte_Internship/Project_2_Customer_Segmentation_Analysis)
 ### 🤖 [Project 3: Data Cleaning](./Oasis_Infobyte_Internship/Project_3_Data_Cleaning_NYC_Airbnb)
 ### 🤖 [Project 4: Sentiment Analysis](./Oasis_Infobyte_Internship/Project_4_Sentiment_Analysis)
+### 🤖 [Project 5: Predicting House Prices using Linear Regression](./Oasis_Infobyte_Internship/Project_5_Predicting House Prices using Linear Regression)
 ---
 
 ## ⚡ Note
