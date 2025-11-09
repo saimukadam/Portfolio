@@ -88,7 +88,7 @@ Predicted the price of a sample house to validate model accuracy.
 **Sai Santosh Mukadam**  
 🎓 BCA (Big Data Analytics), Ajeenkya DY Patil University, Pune  
 📧 saisantoshmukadam26@gmail.com 
-
+💻 [Code](https://colab.research.google.com/drive/1C7xWWhoOXdWlsMvfZHw0xVRUPMo4n5_W?usp=sharing)
 💼 [LinkedIn Profile](https://www.linkedin.com/posts/sai-mukadam-54a416267_oasisinfobyte-datascience-machinelearning-activity-7393249889234632704-9sgc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFhHIoBi2qASKyxOhnRLbthF3I_4mW9roA)
 
 ---
