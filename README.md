@@ -59,6 +59,7 @@ You can view the full project on GitHub:
 ### 🤖 [Project 3: Data Cleaning](./Oasis_Infobyte_Internship/Project_3_Data_Cleaning_NYC_Airbnb)
 ### 🤖 [Project 4: Sentiment Analysis](./Oasis_Infobyte_Internship/Project_4_Sentiment_Analysis)
 ### 🤖 [Project 5: Predicting House Prices using Linear Regression](./Oasis_Infobyte_Internship/Project_5_Oasis_Infobyte_Internship/Project_5_Predicting_House_Prices_using_Linear_Regression)
+### 🤖 [Project 6: Wine-Quality-Prediction](./Oasis_Infobyte_Internship/Project_5_Oasis_Infobyte_Internship/Wine-Quality-Prediction)
 ---
 
 ## ⚡ Note
