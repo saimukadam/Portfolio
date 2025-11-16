@@ -61,7 +61,7 @@ You can view the full project on GitHub:
 ### 🤖 [Project 5: Predicting House Prices using Linear Regression](./Oasis_Infobyte_Internship/Project_5_Oasis_Infobyte_Internship/Project_5_Predicting_House_Prices_using_Linear_Regression)
 ### 🤖 [Project 6: Wine-Quality-Prediction](./Oasis_Infobyte_Internship/Wine-Quality-Prediction)
 ### 🤖 [Project 7: Fraud-Detection](./Oasis_Infobyte_Internship/Fraud-Detection)
-[Project 8: Unveiling-Android-App-Market](./Oasis_Infobyte_Internship/Project_8_Unveiling-Android-App-Market)
+### 🤖 [Project 8: Unveiling-Android-App-Market](./Oasis_Infobyte_Internship/Project_8_Unveiling-Android-App-Market)
 ---
 
 ## ⚡ Note
