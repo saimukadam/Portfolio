@@ -62,6 +62,7 @@ You can view the full project on GitHub:
 ### 🤖 [Project 6: Wine-Quality-Prediction](./Oasis_Infobyte_Internship/Wine-Quality-Prediction)
 ### 🤖 [Project 7: Fraud-Detection](./Oasis_Infobyte_Internship/Fraud-Detection)
 ### 🤖 [Project 8: Unveiling-Android-App-Market](./Oasis_Infobyte_Internship/Project_8_Unveiling-Android-App-Market)
+### 🤖 [Project 9: Autocomplete-Autocorrect-Data-Analytics](./Oasis_Infobyte_Internship/Project_9_Autocomplete-Autocorrect-Data-Analytics)
 ---
 
 ## ⚡ Note
