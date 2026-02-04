@@ -65,6 +65,46 @@ You can view the full project on GitHub:
 ### 🤖 [Project 9: Autocomplete-Autocorrect-Data-Analytics](./Oasis_Infobyte_Internship/Project_9_Autocomplete-Autocorrect-Data-Analytics)
 ---
 
+---
+## 🐍 Python Projects
+
+All Python-related projects are organized inside the **Python_Projects** folder.
+
+Each project includes:
+- Source code (`.py`)
+- Dataset (`.csv`)
+- Cleaned output files
+- Project-specific `README.md` explaining:
+  - Objective
+  - Tools used
+  - Key insights
+
+---
+
+## 📈 Highlighted Project
+
+### 🎓 Student Performance Analysis (Python + Pandas)
+- Cleaned and analyzed real-world student performance data
+- Handled missing values using statistical techniques
+- Generated insights like average marks, top performers, and city-wise analysis
+- Saved cleaned datasets for further analysis
+
+➡️ Project available inside `Python_Projects/Student_Performance_Analysis`
+
+---
+
+## 🔗 Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/sai-mukadam-54a416267  
+- **GitHub:** https://github.com/saimukadam  
+- **Email:** saisantoshmukadam26@gmail.com
+
+---
+
+⭐ *This portfolio is continuously updated as I learn and build new projects.*
+
+---
+
 ## ⚡ Note
 This README serves as my **portfolio overview**.  
-Each project has its **own repository** with code, explanation, and README.
+Each project has its own repository with code, explanations, and a README.
