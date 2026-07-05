@@ -1,0 +1,11 @@
+course_id,department_id,faculty_id,course_name,course_code
+1,6,8,Database Management Systems,CSE001
+2,6,15,Data Structures,CSE002
+3,3,2,Operating Systems,CSE003
+4,4,9,Computer Networks,CSE004
+5,8,2,Python Programming,CSE005
+6,2,3,Java Programming,CSE006
+7,7,11,Machine Learning,CSE007
+8,6,17,Artificial Intelligence,CSE008
+9,2,19,Cloud Computing,CSE009
+10,2,5,Software Engineering,CSE010

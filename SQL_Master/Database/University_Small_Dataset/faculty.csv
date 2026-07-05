@@ -1,0 +1,21 @@
+faculty_id,department_id,first_name,last_name,designation,qualification
+1,7,Priya,Deshmukh,Assistant Professor,PhD
+2,8,Aditya,Joshi,Professor,PhD
+3,8,Sai,Kulkarni,Associate Professor,PhD
+4,4,Priya,Naik,Associate Professor,PhD
+5,6,Om,Pawar,Assistant Professor,PhD
+6,2,Aarav,Deshmukh,Associate Professor,PhD
+7,1,Priya,Patil,Assistant Professor,PhD
+8,1,Ananya,Deshmukh,Associate Professor,PhD
+9,4,Aditya,Patil,Professor,PhD
+10,7,Ananya,Patil,Professor,PhD
+11,4,Aditya,Pawar,Assistant Professor,PhD
+12,3,Sai,Joshi,Assistant Professor,PhD
+13,4,Neha,Pawar,Assistant Professor,PhD
+14,6,Om,Patil,Associate Professor,PhD
+15,4,Ananya,Deshmukh,Assistant Professor,PhD
+16,5,Sai,Kulkarni,Associate Professor,PhD
+17,1,Priya,Joshi,Professor,PhD
+18,7,Om,Deshmukh,Professor,PhD
+19,1,Rahul,Deshmukh,Assistant Professor,PhD
+20,7,Sai,Deshmukh,Associate Professor,PhD
