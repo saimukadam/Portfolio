@@ -1,4 +1,5 @@
 -- IS NULL & IS NOT NULL
+USE ecommerce_db;
 -- First Add NULL Values
 -- Customers
 UPDATE customers 
